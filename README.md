@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá, eu sou a [Seu Nome]! 👋
+# Olá, eu sou a Itnã! 👋
 
 Sou **Analista de Testes e Qualidade de Software**, com mais de três anos de experiência em testes funcionais, de regressão, integração, usabilidade, e automatização de testes com ferramentas como **Selenium WebDriver**, **Cypress**, e **Appium**.
 
